@@ -53,6 +53,7 @@
 *.png   binary
 *.ico   binary
 *.gif   binary
+*.tga   binary
 
 ###############################################################################
 # diff behavior for common document formats
